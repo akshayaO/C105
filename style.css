@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(212, 188, 231);
+}
+
+#camera{
+    border: 3px dashed blue;
+}
+
+#result{
+    border: 3px dashed blue;
+    width: 300;
+    height: 250;
+}
